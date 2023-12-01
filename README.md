@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/pranavtj15" target="blank"><img src="https://img.shields.io/twitter/follow/pranavtj15?logo=twitter&style=for-the-badge" alt="pranavtj15" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Developement | 3D Modeling**
+- 🌱 I’m currently learning **Full Stack Web Developement | 3D Modeling | Machine Learning**
 
-- 💬 Ask me about **Python | Java | Figma**
+- 💬 Ask me about **Python | Java | Data Science**
 
 - 📫 How to reach me **pranav.tj150605@gmail.com**
 
